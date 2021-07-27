@@ -5,22 +5,22 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vitorSantanaDev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=vitorSantanaDev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
-  
+  </br></br>
   <a href="https://github.com/vitorSantanaDev/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&&layout=compact&theme=radical"
     />
   </a>
 </p>
 
 ## Hey there 👋
 
-"My name is Vitor, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out :handshake: using advanced technologies with acessibility :woman_in_manual_wheelchair:, creating equal oportunities :heavy_check_mark: and spreading the culture of diversity in the technological sphere are my main goals. :dart:"
+"My name is Vitor, I'm frontend developer. :dart:"
 
 :zap: These are some of my technical skills:
 <ul>
@@ -34,7 +34,7 @@
   <li>:toolbox: Tools:</li>
   <br/>
   <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </p>
 </ul>
 
