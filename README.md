@@ -1,4 +1,4 @@
-<h2 align="center">I'Vitor Santana! :vulcan_salute:</h2>
+<h2 align="center">I'm Vitor Santana! :vulcan_salute:</h2>
 
 <p align="center">
   <a href="https://github.com/vitorSantanaDev/github-readme-stats">
