@@ -1,13 +1,21 @@
-<h2 align="center">I'm Vitor Santana! :vulcan_salute:</h2>
+<h2 align="center">I'm César O. Araújo! :vulcan_salute:</h2>
 
 <p align="center">
-  <a href="https://github.com/vitorSantanaDev/github-readme-stats">
+  <a href="https://github.com/oaraujocesar/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vitorSantanaDev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=oaraujocesar&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
-  </a><span><a href="https://github.com/vitorSantanaDev/github-readme-stats"><img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&&layout=compact&theme=radical"/></a></span>
+  </a>
+  
+  <a href="https://github.com/oaraujocesar/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaraujocesar&&layout=compact&theme=dark"
+    />
+  </a>
 </p>
 
 ## Hey there 👋
