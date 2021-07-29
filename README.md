@@ -7,15 +7,7 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=vitorSantanaDev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
-  </a>
-  </br></br>
-  <a href="https://github.com/vitorSantanaDev/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&&layout=compact&theme=radical"
-    />
-  </a>
+  </a><span><a href="https://github.com/vitorSantanaDev/github-readme-stats"><img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&&layout=compact&theme=radical"/></a></span>
 </p>
 
 ## Hey there 👋
