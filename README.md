@@ -1,7 +1,7 @@
 <div>
-  <a href="https://github.com/caiocipriano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocipriano&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocipriano&layout=compact&langs_count=7&theme=prussian "/>
+  <a href="https://github.com/vitorSantanaDev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorSantanaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorSantanaDev&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
 ## Hey there 👋
