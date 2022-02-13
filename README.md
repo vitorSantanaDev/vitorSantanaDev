@@ -13,6 +13,7 @@
   
   <li>:books: Skills:</li>
   <br/>
+  
   <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-ffef0a?style=for-the-badge&logo=javascript&logoColor=1a1a1a"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Jquery-10245c?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/next-030303?style=for-the-badge&logo=next.js&logoColor=#7a7a7a"> <img src="https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/strapi-090712?style=for-the-badge&logo=strapi&logoColor=682be3"> <img src="https://img.shields.io/badge/graphql-1c1c1c?style=for-the-badge&logo=graphql&logoColor=e10098"> <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/-TestingLibrary-1a1a1a?style=for-the-badge&logo=testing-library&logoColor=f7054a">
   </p>
