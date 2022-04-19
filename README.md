@@ -11,7 +11,7 @@
   
 ## Hey there 👋
 
-"My name is Vitor, I'm frontend developer. :dart:"
+"My name is Vitor, I'm Front-End Engineer. :dart:"
 
 :zap: These are some of my technical skills:
 <ul>
