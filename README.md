@@ -11,7 +11,7 @@
   
 ## Hey there 👋
 
-"My name is Vitor, I'm Front-End Engineer. :dart:"
+"Hello my name is Vitor Santana, I'm a software engineer, majoring in computer science. I am completely passionate about developing applications using javascript and its entire ecosystem of frameworks and libraries. I'm the type of person who doesn't settle, I don't like to stay in the comfort zone, I'm always looking to improve my programming skills, always looking to study what's new in the world of software development."
 
 :zap: These are some of my technical skills:
 <ul>
